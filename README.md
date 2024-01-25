@@ -3,6 +3,7 @@ Front end design to client (Manage, LLC) business' website
 
 **Link to project:** https://coderrob22.github.io/Manage-LLC-frontend/
 
+![Screenshot 2024-01-25 at 5 05 19 PM](https://github.com/coderrob22/Manage-LLC-frontend/assets/105181695/6e6948e1-f98d-4fe5-8704-0aaa2834a35a)
 
 
 ## How It's Made:
